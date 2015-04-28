@@ -1,4 +1,5 @@
 # rwdemail
+This Fork uses LESS instead of SASS for Stylesheets.
 Responsive or Basic Email Development in a box! Automate Everything, from LESS precomiling, CSS Inlining, CSS/HTML and Image Minification, S3 Image Hosting and [Litmus](https://litmus.com) email testing. With the help of [INK templates](http://zurb.com/ink/docs.php) and its CSS boilerplate, designing emails of any kind is a breeze.
 
 ## Features
